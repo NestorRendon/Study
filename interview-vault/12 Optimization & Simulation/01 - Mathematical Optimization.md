@@ -1,6 +1,6 @@
 # Mathematical Optimization
 
-**Prev:** [[00 - Chapter Overview]] · **Next:** [[02 - Mixed Integer Programming]]
+**Prev:** [[12 Optimization & Simulation/00 - Chapter Overview]] · **Next:** [[02 - Mixed Integer Programming]]
 
 ---
 

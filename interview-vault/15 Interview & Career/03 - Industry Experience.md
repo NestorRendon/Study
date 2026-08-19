@@ -35,7 +35,7 @@
 - **RAG stack:** pgvector, guardrails, LLM-as-evaluator, trajectory metrics.
 - **Challenges:** hallucinations, language switching, unexpected agent behavior.
 
-→ [[07 LLM & Generative AI/09 - Agents and Workflows]] · [[08 RAG & Retrieval/10 - RAG Evaluation]]
+→ [[09 - Agents and Workflows]] · [[10 - RAG Evaluation]]
 
 ---
 

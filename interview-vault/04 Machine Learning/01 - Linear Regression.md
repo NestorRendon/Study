@@ -1,6 +1,6 @@
 # Linear Regression
 
-**Prev:** [[00 - Chapter Overview]] · **Next:** [[02 - Logistic Regression]]
+**Prev:** [[04 Machine Learning/00 - Chapter Overview]] · **Next:** [[02 - Logistic Regression]]
 
 ---
 

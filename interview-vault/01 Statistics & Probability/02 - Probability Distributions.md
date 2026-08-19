@@ -28,6 +28,7 @@ $$f(x) = \frac{1}{\sigma\sqrt{2\pi}} \exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\righ
 
 **Arises from:** CLT, measurement noise, many aggregated effects.
 
+![[Pasted image 20260728204756.png]]
 ### Log-Normal
 
 $\log X \sim \mathcal{N}(\mu, \sigma^2)$. **Right-skewed:** prices, incomes, latency.

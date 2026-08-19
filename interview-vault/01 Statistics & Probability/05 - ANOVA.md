@@ -9,7 +9,7 @@
 ANOVA tests whether **means of 3 or more groups** differ, by comparing **variance between groups** vs **variance within groups**.
 
 ---
-
+![[Pasted image 20260728210142.png]]
 ## In plain English
 
 *(Read the sections below — each concept builds intuition before formulas.)*
@@ -32,6 +32,7 @@ ANOVA tests whether **means of 3 or more groups** differ, by comparing **varianc
 ---
 
 ## F-statistic
+An F-statistic is ==a ratio of two variances used in statistical tests like ANOVA and regression analysis to check if group means or overall models are significantly different==. A larger F-statistic means the variation between groups is much higher than the variation within groups, signaling a significant effect
 
 $$F = \frac{\text{MS}_{\text{between}}}{\text{MS}_{\text{within}}}$$
 
@@ -41,6 +42,8 @@ $$F = \frac{\text{MS}_{\text{between}}}{\text{MS}_{\text{within}}}$$
 | MS$_{\text{within}}$ | Mean square within groups |
 
 Large $F$ → between-group spread dominates → reject equal means.
+
+![[Pasted image 20260728210917.png]]
 
 ---
 

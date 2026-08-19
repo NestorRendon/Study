@@ -55,6 +55,6 @@
 
 ---
 
-**Prev:** [[10 Transformers & Attention/00 - Chapter Overview]] · **Next:** [[12 Optimization & Simulation/00 - Chapter Overview]]
+**Prev:** [[Metrics and Evaluation/00 - Chapter Overview]] · **Next:** [[12 Optimization & Simulation/00 - Chapter Overview]]
 
 [[Home|← Home]]

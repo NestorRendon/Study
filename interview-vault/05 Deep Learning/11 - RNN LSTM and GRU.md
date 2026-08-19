@@ -88,4 +88,4 @@ Simpler than LSTM (fewer parameters), often **similar accuracy**, faster trainin
 
 ---
 
-**Next:** [[12 - Convolutional Neural Networks]] · Then transformers: [[10 Transformers & Attention/01 - Why Transformers]]
+**Next:** [[12 - Convolutional Neural Networks]] · Then transformers: [[01 - Why Transformers]]

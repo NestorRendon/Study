@@ -62,6 +62,6 @@
 
 ---
 
-**Prev:** [[04 Machine Learning/00 - Chapter Overview]] · **Next:** [[06 NLP & Text Mining/00 - Chapter Overview]]
+**Prev:** [[04 Machine Learning/00 - Chapter Overview]] · **Next:** [[06 LLM/NPL/00 - Chapter Overview]]
 
 [[Home|← Home]]

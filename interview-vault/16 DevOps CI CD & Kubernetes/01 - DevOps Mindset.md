@@ -1,6 +1,6 @@
 # DevOps Mindset
 
-**Prev:** [[00 - Chapter Overview]] · **Next:** [[02 - CI CD Concepts]]
+**Prev:** [[16 DevOps CI CD & Kubernetes/00 - Chapter Overview]] · **Next:** [[02 - CI CD Concepts]]
 
 ---
 

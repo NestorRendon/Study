@@ -20,7 +20,20 @@
 8. **Config, ops & ML deploy** — Secrets, probes, model serving ([[08 - Kubernetes Ops and ML Deploy]])
 
 ---
+Service Mapping Matrix
 
+Most core services are highly comparable in terms of underlying capability, differing primarily in their interface and specific configuration options. [[1](https://www.youtube.com/watch?v=hI8PVJBpHTY&t=104), [2](https://www.youtube.com/watch?v=C2YXHlegJ38&t=73)]
+
+| Category                  | AWS Service                                           | Azure Service                                                                      | Google Cloud Service                                     |
+| ------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| **Virtual Servers**       | [Amazon EC2](https://aws.amazon.com/ec2/)             | [Azure Virtual Machines](https://azure.microsoft.com/services/virtual-machines/)   | [Compute Engine](https://cloud.google.com/compute)       |
+| **Object Storage**        | [Amazon S3](https://aws.amazon.com/s3/)               | [Azure Blob Storage](https://azure.microsoft.com/services/storage/blobs/)          | [Cloud Storage](https://cloud.google.com/storage)        |
+| **Managed Kubernetes**    | [Amazon EKS](https://aws.amazon.com/eks/)             | [Azure AKS](https://azure.microsoft.com/services/kubernetes-service/)              | [Google GKE](https://cloud.google.com/kubernetes-engine) |
+| **Serverless Compute**    | [AWS Lambda](https://aws.amazon.com/lambda/)          | [Azure Functions](https://azure.microsoft.com/services/functions/)                 | [Cloud Run](https://cloud.google.com/run) / Functions    |
+| **Relational Database**   | [Amazon RDS](https://aws.amazon.com/rds/)             | [Azure SQL Database](https://azure.microsoft.com/products/azure-sql/database/)     | [Cloud SQL](https://cloud.google.com/sql)                |
+| **NoSQL Database**        | [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)   | [Azure Cosmos DB](https://azure.microsoft.com/services/cosmos-db/)                 | [Cloud Firestore](https://cloud.google.com/firestore)    |
+| **Data Warehouse**        | [Amazon Redshift](https://aws.amazon.com/redshift/)   | [Azure Synapse Analytics](https://azure.microsoft.com/services/synapse-analytics/) | [Google BigQuery](https://cloud.google.com/bigquery)     |
+| **AI / Machine Learning** | [Amazon SageMaker](https://aws.amazon.com/sagemaker/) | [Azure AI Services](https://azure.microsoft.com/solutions/ai/)                     | [Vertex AI](https://cloud.google.com/vertex-ai)          |
 ## Big picture (one diagram)
 
 ```mermaid
@@ -94,6 +107,6 @@ flowchart LR
 
 ---
 
-**Prev:** [[14 C++ for Data Science & Engineering/00 - Chapter Overview]] · **Next:** [[15 Interview & Career/00 - Chapter Overview]]
+**Prev:** [[13 Software Engineering & Python/14 C++ for Data Science & Engineering/00 - Chapter Overview]] · **Next:** [[15 Interview & Career/00 - Chapter Overview]]
 
 [[Home|← Home]]

@@ -14,7 +14,6 @@ Sample means from large enough samples are **approximately Normal**, even if the
 
 *(Read the sections below — each concept builds intuition before formulas.)*
 
-
 ## Law of Large Numbers (LLN)
 
 $$\bar{X}_n = \frac{1}{n}\sum_{i=1}^n X_i \xrightarrow{n \to \infty} \mu$$

@@ -16,7 +16,7 @@
 10. **Boost vs bag** — how ensembles differ ([[10 - Boosting vs Bagging]])
 
 ---
-
+![[Pasted image 20260730072418.png]]
 ## Reading path
 
 | # | Topic | Note |

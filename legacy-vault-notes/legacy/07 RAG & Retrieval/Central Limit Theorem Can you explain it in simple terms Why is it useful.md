@@ -1,0 +1,5 @@
+# Central Limit Theorem (Can you explain it in simple terms? Why is it useful?
+
+In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), the **central limit theorem** (**CLT**) states that, under appropriate conditions, the [distribution](https://en.wikipedia.org/wiki/Probability_distribution) of a normalized version of the sample mean converges to a [standard normal distribution](https://en.wikipedia.org/wiki/Normal_distribution#Standard_normal_distribution). This holds even if the original variables themselves are not [normally distributed](https://en.wikipedia.org/wiki/Normal_distribution). There are several versions of the CLT, each applying in the context of different conditions.  
+  
+In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), the **law of large numbers** is a [mathematical law](https://en.wikipedia.org/wiki/Law_(mathematics)) that states that the [average](https://en.wikipedia.org/wiki/Average) of the results obtained from a large number of independent random samples converges to the true value, if it exists.

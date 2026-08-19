@@ -131,7 +131,7 @@ $$\alpha_{ij} = \frac{e^{s_{ij}}}{\sum_{j'} e^{s_{ij'}}}$$
 | Output | $K$ class probs | $S$ weights summing to 1 |
 | Meaning | $P(\text{class})$ | how much token $i$ listens to token $j$ |
 
-→ [[10 Transformers & Attention/03 - Self-Attention Step by Step]]
+→ [[03 - Self-Attention Step by Step]]
 
 ---
 

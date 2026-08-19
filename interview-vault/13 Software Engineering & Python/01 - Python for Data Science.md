@@ -1,6 +1,6 @@
 # Python for Data Science
 
-**Prev:** [[00 - Chapter Overview]] · **Next:** [[02 - Git Essentials]]
+**Prev:** [[13 Software Engineering & Python/00 - Chapter Overview]] · **Next:** [[02 - Git Essentials]]
 
 ---
 ![[Pasted image 20260520085004.png]]

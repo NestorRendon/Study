@@ -239,7 +239,7 @@ for param in backbone.parameters():
 optimizer = optim.Adam(head.parameters(), lr=1e-3)
 ```
 
-**Use:** transfer learning / fine-tuning (LoRA is a smarter variant → [[07 LLM & Generative AI/05 - LoRA and PEFT]]).
+**Use:** transfer learning / fine-tuning (LoRA is a smarter variant → [[05 - LoRA and PEFT]]).
 
 ---
 

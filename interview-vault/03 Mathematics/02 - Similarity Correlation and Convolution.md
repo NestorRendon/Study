@@ -12,12 +12,12 @@ ML constantly asks: *"How alike are two things?"* — two vectors (RAG), two var
 
 ## Family tree
 
-| Idea | Compares | Scale-sensitive? | Typical use |
-|------|----------|------------------|-------------|
-| **Dot product** | $\mathbf{a} \cdot \mathbf{b}$ | **Yes** (magnitude matters) | Attention scores $QK^\top$ |
-| **Cosine similarity** | angle between vectors | **No** (length normalized) | Embeddings, RAG retrieval |
-| **Pearson correlation** | linear relationship | Standardized (unitless) | Features, EDA, multicollinearity |
-| **Convolution** | local pattern match | Learned kernel weights | CNNs, time series |
+| Idea                    | Compares                      | Scale-sensitive?            | Typical use                      |
+| ----------------------- | ----------------------------- | --------------------------- | -------------------------------- |
+| **Dot product**         | $\mathbf{a} \cdot \mathbf{b}$ | **Yes** (magnitude matters) | Attention scores $QK^\top$       |
+| **Cosine similarity**   | angle between vectors         | **No** (length normalized)  | Embeddings, RAG retrieval        |
+| **Pearson correlation** | linear relationship           | Standardized (unitless)     | Features, EDA, multicollinearity |
+| **Convolution**         | local pattern match           | Learned kernel weights      | CNNs, time series                |
 
 ---
 
@@ -57,7 +57,7 @@ $$\|\mathbf{a}\| = \|\mathbf{b}\| = 1 \quad \Rightarrow \quad \mathbf{a} \cdot \
 | Dot product | Raw attention, unnormalized features |
 | **Cosine** | Semantic search — "meaning direction" not document length |
 
-→ [[08 RAG & Retrieval/03 - Embedding Model Choice]] · [[08 RAG & Retrieval/04 - Indexing and Vector Stores]]
+→ [[03 - Embedding Model Choice]] · [[04 - Indexing and Vector Stores]]
 
 ### Tiny example
 

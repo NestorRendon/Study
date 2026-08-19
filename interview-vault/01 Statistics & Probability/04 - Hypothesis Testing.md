@@ -32,14 +32,16 @@ $p$-value = probability of seeing data **at least this extreme**, assuming $H_0$
 
 ## Tests (when to use)
 
-| Test | Use when |
-|------|----------|
-| **t-test** (2 samples) | Compare **means** of 2 groups |
-| **z-test** | Large $n$, proportions |
-| **$\chi^2$** | Category counts, independence |
-| **ANOVA** | Compare means of **3+** groups → [[05 - ANOVA]] |
-
+| Test                   | Use when                                        |
+| ---------------------- | ----------------------------------------------- |
+| **t-test** (2 samples) | Compare **means** of 2 groups                   |
+| **z-test**             | Large $n$, proportions                          |
+| **$\chi^2$**           | Category counts, independence                   |
+| **ANOVA**              | Compare means of **3+** groups → [[05 - ANOVA]] |
+![[Pasted image 20260728210027.png]]
 ---
+
+
 
 ## Pragmatic workflow (A/B test)
 

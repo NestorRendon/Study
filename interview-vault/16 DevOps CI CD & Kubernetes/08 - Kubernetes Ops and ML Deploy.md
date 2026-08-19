@@ -85,7 +85,7 @@ Pod: download weights from S3 on start OR sidecar refresh
 Ingress: HTTPS to /predict
 ```
 
-Link: [[08 RAG & Retrieval/06 - Basic RAG Pipeline]] · [[13 Software Engineering & Python/04 - APIs FastAPI and Flask]]
+Link: [[06 - Basic RAG Pipeline]] · [[13 Software Engineering & Python/04 - APIs FastAPI and Flask]]
 
 ---
 

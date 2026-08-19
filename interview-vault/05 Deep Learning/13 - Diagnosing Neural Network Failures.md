@@ -1,6 +1,6 @@
 # Diagnosing Neural Network Failures
 
-**Prev:** [[12 - Convolutional Neural Networks]] · **Next:** [[06 NLP & Text Mining/00 - Chapter Overview|Chapter 6 — NLP]]
+**Prev:** [[12 - Convolutional Neural Networks]] · **Next:** [[06 LLM/NPL/00 - Chapter Overview|Chapter 6 — NLP]]
 
 ---
 
@@ -48,4 +48,4 @@ When a NN underperforms, check **data**, **capacity**, **optimization**, and **g
 
 ---
 
-**Next chapter:** [[06 NLP & Text Mining/00 - Chapter Overview]]
+**Next chapter:** [[06 LLM/NPL/00 - Chapter Overview]]

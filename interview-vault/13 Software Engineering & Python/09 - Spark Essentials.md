@@ -1,6 +1,6 @@
 # Spark Essentials (PySpark)
 
-**Prev:** [[08 - SQL Cheatsheet]] · **Next:** [[10 - Python Interview Traps]]
+**Prev:** [[08.5 - SQL Schema Design Normalization and Production Tips]] · **Next:** [[10 - Python Interview Traps]]
 
 ---
 

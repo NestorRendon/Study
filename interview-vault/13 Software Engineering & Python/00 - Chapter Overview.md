@@ -12,9 +12,11 @@
 6. **NumPy** — array cheatsheet ([[06 - NumPy Cheatsheet]])
 7. **Pandas** — cheatsheet + **4 coding drills** ([[07 - Pandas Cheatsheet]])
 8. **SQL** — cheatsheet + **4 query drills** ([[08 - SQL Cheatsheet]])
+   - **8a. SQL deep dive** — from-scratch execution ([[08.1 - SQL from Scratch How a Query Executes]]) → indexes & execution plans ([[08.2 - SQL Indexes and Query Execution Plans]]) → transactions & ACID ([[08.3 - SQL Transactions ACID and Isolation Levels]]) → engine comparison ([[08.4 - SQL Database Engines Compared]]) → schema design & production tips ([[08.5 - SQL Schema Design Normalization and Production Tips]])
 9. **Spark** — essentials + **4 PySpark drills** ([[09 - Spark Essentials]])
 10. **PyTorch** — tensors, autograd, training loop + **4 drills** ([[11 - PyTorch Essentials]])
 11. **Trap questions** — Python gotchas ([[10 - Python Interview Traps]])
+12. **Frontend performance** — DevTools diagnosis, measure-first ([[12 - Frontend Performance Debugging]])
 
 **Coding drills:** [[01 - Python for Data Science]] (4) · [[07 - Pandas Cheatsheet]] (4) · [[08 - SQL Cheatsheet]] (4) · [[09 - Spark Essentials]] (4) · [[11 - PyTorch Essentials]] (4)
 
@@ -32,9 +34,15 @@
 | 6 | **NumPy cheatsheet** | [[06 - NumPy Cheatsheet]] |
 | 7 | **Pandas cheatsheet** | [[07 - Pandas Cheatsheet]] |
 | 8 | **SQL cheatsheet** | [[08 - SQL Cheatsheet]] |
+| 8a | ↳ SQL from scratch (query execution) | [[08.1 - SQL from Scratch How a Query Executes]] |
+| 8b | ↳ Indexes & execution plans | [[08.2 - SQL Indexes and Query Execution Plans]] |
+| 8c | ↳ Transactions, ACID & isolation levels | [[08.3 - SQL Transactions ACID and Isolation Levels]] |
+| 8d | ↳ Engines compared (Postgres, MySQL...) | [[08.4 - SQL Database Engines Compared]] |
+| 8e | ↳ Schema design & production tips | [[08.5 - SQL Schema Design Normalization and Production Tips]] |
 | 9 | **Spark** | [[09 - Spark Essentials]] |
 | 10 | **PyTorch** | [[11 - PyTorch Essentials]] |
 | 11 | **Python traps** | [[10 - Python Interview Traps]] |
+| 12 | **Frontend performance** | [[12 - Frontend Performance Debugging]] |
 
 ---
 

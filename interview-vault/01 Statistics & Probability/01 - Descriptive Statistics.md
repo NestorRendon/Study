@@ -1,6 +1,6 @@
 # Descriptive Statistics
 
-**Prev:** [[00 - Chapter Overview]] · **Next:** [[02 - Probability Distributions]]
+**Prev:** [[01 Statistics & Probability/00 - Chapter Overview]] · **Next:** [[02 - Probability Distributions]]
 
 ---
 

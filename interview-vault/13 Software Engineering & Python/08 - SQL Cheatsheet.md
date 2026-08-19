@@ -1,6 +1,8 @@
 # SQL Cheatsheet
 
-**Prev:** [[07 - Pandas Cheatsheet]] · **Next:** [[09 - Spark Essentials]]
+**Prev:** [[07 - Pandas Cheatsheet]] · **Next:** [[08.1 - SQL from Scratch How a Query Executes]]
+
+**Want the full deep dive?** This note is the quick reference — a dedicated 5-note arc covers SQL from scratch (query execution), indexes & execution plans, transactions/ACID, engine comparisons, and schema design: start at [[08.1 - SQL from Scratch How a Query Executes]].
 
 ---
 
@@ -179,4 +181,4 @@ WHERE avg_sal > (SELECT AVG(salary) FROM employees);
 
 ---
 
-**Next:** [[09 - Spark Essentials]]
+**Next:** [[08.1 - SQL from Scratch How a Query Executes]]

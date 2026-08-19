@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "062fb7784daae3af",
+    "type": "split",
+    "children": [
+      {
+        "id": "617f4f66208bd54f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10748ebb43cc460f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17 AI Philosophy, Ethics & Spirituality/01 - Cartografia de la IA.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Cartografia de la IA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a887033077dfeb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e908d11fc51a5281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c15d5bfa62d3853b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e840f17fe5a8f511",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c47c12f669f1521c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.7195739746094
+  },
+  "right": {
+    "id": "c2578f49da6671bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "51ac8d8def29b92e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fbb8143772ec082",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "13 Software Engineering & Python/01 - Python for Data Science.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01 - Python for Data Science"
+            }
+          },
+          {
+            "id": "8efaf9f790adb580",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "13 Software Engineering & Python/01 - Python for Data Science.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01 - Python for Data Science"
+            }
+          },
+          {
+            "id": "83d2ab15976dd3a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a90555accf2f6a20",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5b73d336af401832",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "13 Software Engineering & Python/01 - Python for Data Science.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01 - Python for Data Science"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "10748ebb43cc460f",
+  "lastOpenFiles": [
+    "Metrics and Evaluation/02 - Classification Metrics.md",
+    "17 AI Philosophy, Ethics & Spirituality/01 - Cartografia de la IA.md",
+    "17 AI Philosophy, Ethics & Spirituality",
+    "Applaudo/01 - Study Notes.md",
+    "Applaudo/02 - Quick Reference.md",
+    "13 Software Engineering & Python/08.5 - SQL Schema Design Normalization and Production Tips.md",
+    "13 Software Engineering & Python/08.4 - SQL Database Engines Compared.md",
+    "13 Software Engineering & Python/08.3 - SQL Transactions ACID and Isolation Levels.md",
+    "13 Software Engineering & Python/08.2 - SQL Indexes and Query Execution Plans.md",
+    "13 Software Engineering & Python/08.1 - SQL from Scratch How a Query Executes.md",
+    "13 Software Engineering & Python/10 - Python Interview Traps.md",
+    "06 LLM/08 RAG & Retrieval/04.3 - Vector Index Types and ANN Algorithms.md",
+    "06 LLM/08 RAG & Retrieval/04.2 - Vector Similarity Metrics.md",
+    "06 LLM/08 RAG & Retrieval/04.1 - Vector Databases from Scratch.md",
+    "06 LLM/08 RAG & Retrieval/04.5 - Vector DB Queries Commands and Production Tips.md",
+    "06 LLM/08 RAG & Retrieval/04.4 - Vector Database Frameworks Compared.md",
+    "Metrics and Evaluation/04 - Object Detection and Segmentation Metrics.md",
+    "Metrics and Evaluation/03 - Ranking Clustering and Quality Metrics.md",
+    "Metrics and Evaluation/01 - Regression Metrics.md",
+    "Metrics and Evaluation/08 - Evaluation Methodology and Statistical Rigor.md",
+    "Metrics and Evaluation/07 - Knowledge Graph and Embedding Metrics.md",
+    "Metrics and Evaluation/06 - LLM and Generative Text Metrics.md",
+    "Metrics and Evaluation/05 - Neural Network RNN and LSTM Metrics.md",
+    "Metrics and Evaluation/00 - Chapter Overview.md",
+    "Metrics and Evaluation",
+    "Applaudo/Applaudo Data Scientist - Project Context .pdf",
+    "15 Interview & Career/Technical Interview — Problem Solving Cheat Sheet.md",
+    "06 LLM/08 RAG & Retrieval/10 - RAG Evaluation.md",
+    "06 LLM/07 LLM & Generative AI/00 - Chapter Overview.md",
+    "15 Interview & Career/Technical Interview — Problem Solving Cheat Sheet.md.bak",
+    "06 LLM/NPL",
+    "07 Data engineering",
+    "AI business/untitled folder",
+    "Untitled.canvas",
+    "assets/Pasted image 20260731114600.png",
+    "assets/Pasted image 20260731114540.png",
+    "assets/Pasted image 20260731114517.png",
+    "assets/Pasted image 20260731114453.png",
+    "assets/Pasted image 20260731114437.png",
+    "assets/Pasted image 20260731114148.png",
+    "assets/Pasted image 20260731114131.png",
+    "assets/Pasted image 20260730072418.png",
+    "assets/Pasted image 20260730064724.png",
+    "assets/Pasted image 20260729211558.png",
+    "07 LLM & Generative AI/10 Stable difussion models",
+    "AI business",
+    "Architecture",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,6 +1,6 @@
 # Bayesian Inference
 
-**Prev:** [[00 - Chapter Overview]] · **Next:** [[02 - Priors and Posteriors Practical]]
+**Prev:** [[02 Bayesian & Causal Inference/00 - Chapter Overview]] · **Next:** [[02 - Priors and Posteriors Practical]]
 
 ---
 

@@ -1,6 +1,6 @@
 # Python Interview Traps & Patterns
 
-**Prev:** [[11 - PyTorch Essentials]] · **Next:** [[Home|Home]]
+**Prev:** [[11 - PyTorch Essentials]] · **Next:** [[12 - Frontend Performance Debugging]]
 
 ---
 

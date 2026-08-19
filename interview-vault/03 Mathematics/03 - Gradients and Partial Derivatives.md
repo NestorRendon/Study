@@ -43,10 +43,14 @@ $$\nabla f(\mathbf{w}) = \begin{bmatrix} \frac{\partial f}{\partial w_1} \\ \vdo
 |--------|-------|-----|
 | **Jacobian** $\mathbf{J}$ | First, vector-valued $f$ | Multi-output networks |
 | **Hessian** $\mathbf{H}$ | Second | Curvature, Newton methods |
-
+![[Pasted image 20260728212547.png]]
 ---
+- **Jacobian Meaning**: Shows direction and rate of change for a system of vector equations. It tells you how linear changes affect multi-dimensional space. [[1](https://www.youtube.com/watch?v=hoYGmGxAbPY), [2](https://www.reddit.com/r/math/comments/1f7cydk/why_is_the_jacobian_used_in_pdes_rather_than_the/), [3](https://najeebkhan.github.io/blog/VecCal.html), [4](https://medium.com/@ThinkingLoop/jacobian-and-hessian-intuition-why-deep-learning-needs-higher-order-calculus-884bcd66c073), [5](https://www.reddit.com/r/math/comments/91juz7/how_do_i_interpret_the_jacobian_of_vector_fields/)]
 
-**Next:** [[04 - Gradient Descent]]
+- **Hessian Meaning**: Shows local curvature (how steep or flat a multi-dimensional surface bends). It helps find out if a critical point is a local minimum, maximum, or saddle point
+**The gradient is the vector of the first-order derivative while the Hessian matrix represents the matrix of the second-order derivative**.
+
+![[Pasted image 20260728212918.png]]**Next:** [[04 - Gradient Descent]]
 ---
 
 ## Common traps

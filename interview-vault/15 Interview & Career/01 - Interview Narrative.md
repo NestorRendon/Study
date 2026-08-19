@@ -1,6 +1,6 @@
 # Interview Narrative
 
-**Prev:** [[00 - Chapter Overview]] · **Next:** [[02 - Education and Research]]
+**Prev:** [[15 Interview & Career/00 - Chapter Overview]] · **Next:** [[02 - Education and Research]]
 
 ---
 
@@ -24,7 +24,7 @@ Present yourself in four blocks:
 | Statistics / ANOVA | [[01 Statistics & Probability/05 - ANOVA]] |
 | ML / regression | [[04 Machine Learning/01 - Linear Regression]] |
 | Bias–variance → regularization | [[05 Deep Learning/01 - Bias-Variance Tradeoff]] → [[05 Deep Learning/04 - Regularization L1 and L2]] |
-| RAG / agents | [[08 RAG & Retrieval/06 - Basic RAG Pipeline]] |
+| RAG / agents | [[06 - Basic RAG Pipeline]] |
 | Your xFarm work | [[03 - Industry Experience]] |
 
 ---

@@ -1,6 +1,6 @@
 # Linear Algebra Essentials
 
-**Prev:** [[00 - Chapter Overview]] · **Next:** [[02 - Similarity Correlation and Convolution]]
+**Prev:** [[03 Mathematics/00 - Chapter Overview]] · **Next:** [[02 - Similarity Correlation and Convolution]]
 
 ---
 

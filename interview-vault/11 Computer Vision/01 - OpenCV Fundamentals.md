@@ -1,6 +1,6 @@
 # OpenCV Fundamentals
 
-**Prev:** [[00 - Chapter Overview]] · **Next:** [[02 - OpenCV Advanced]]
+**Prev:** [[11 Computer Vision/00 - Chapter Overview]] · **Next:** [[02 - OpenCV Advanced]]
 
 ---
 

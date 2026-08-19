@@ -9,6 +9,9 @@
 3. **Industry** — xFarm, SUPSI, impact stories ([[03 - Industry Experience]])
 
 ---
+detección→investigación→mitigación→causa raíz→fix→prevención
+
+
 
 ## Reading path
 
